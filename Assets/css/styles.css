@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+.container{
+    background-color: seashell;  
+}
+.row{
+    background-color:  #ff9b9b;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0%;
+    
+}
+.box{
+    
+    padding: 10px;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    height: 600px;
+    align-items: center;
+    color: #c19a6b;
+}
+.row2{
+    display: flex;
+    background-color: #c19a6b;
+    justify-content: space-around;
+    padding: 20px;
+    height: 600px;
+    align-items: center;
+    color:  seashell;
+}
